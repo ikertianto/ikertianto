@@ -1,16 +1,28 @@
-## Hi there 👋
+ 
+# 👋 Hi there, I'm @ikertianto
 
-<!--
-**ikertianto/ikertianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a System Analyst passionate about building efficient digital solutions that solve real-world problems. Currently focused on enhancing systems with better architecture, automation, and user experience.
 
-Here are some ideas to get you started:
+## 👀 I’m interested in:
+- Software Architecture & System Design
+- Backend Development (ASP.NET MVC, PostgreSQL, Kafka)
+- Infrastructure & Logging (ELK Stack, Apache APISIX, Keycloak)
+- Exploring open-source tools like Liquibase, Apache Camel, and more
+- Building intelligent systems using algorithms (like Genetic Algorithms for scheduling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Advanced system integration using Apache Camel
+- Infrastructure automation & observability
+- Rich Text Editor customization with Plate.js
+- Mobile app development (reviving an old scheduling app project!)
+
+## 💞️ I’m looking to collaborate on:
+- Open-source tools for education or system management
+- Projects involving scheduling, workflow automation, or infrastructure
+- Initiatives using .NET, Java, or even hybrid mobile apps
+
+## 📫 How to reach me: 
+- Email: [irfan.kertianto@gmail.com](mailto:ikertianto@gmail.com)
+
+ 
+  
